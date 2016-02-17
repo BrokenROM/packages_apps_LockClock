@@ -79,6 +79,7 @@ public class CalendarPreferences extends PreferenceFragment implements
         if (!hasCalendarPermission()) {
             mShowCalendar.setChecked(false);
         } else {
+            mShowCalendar.setChecked(true);
             updateCalendars();
         }
     }
@@ -132,14 +133,6 @@ public class CalendarPreferences extends PreferenceFragment implements
         boolean firstTime = com.cyanogenmod.lockclock.misc.Preferences.calendarsToDisplay(mContext) == null;
         calendarList.setEntries(calEntries.getEntries());
         calendarList.setEntryValues(calEntries.getEntryValues());
-        if (firstTime) {
-            // by default, select all the things
-            HashSet defaults = new HashSet();
-            for (CharSequence s : calEntries.getEntryValues()) {
-                defaults.add((String) s);
-            }
-            calendarList.setValues(defaults);
-        }
 
         if (calEntries.getEntryValues().length == 0) {
             calendarList.setSummary(R.string.calendars_none_found_summary);
