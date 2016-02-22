@@ -111,8 +111,7 @@
   <!-- Preferences - Categories -->
   <string name="clock_category">Часы и будильник</string>
   <string name="weather_category">Погода</string>
-  <string name="calendar_category">События календаря</string>
-  <!-- Preferences - Categories -->
+  <string name="calendar_category">Календарные события</string>
   <string name="general_category">Основные</string>
   <string name="display_category">Отображение</string>
   <!-- Preferences - Clock -->
@@ -147,11 +146,10 @@
   <string name="weather_show_when_minimized_title">Показывать, когда свернуто</string>
   <string name="weather_show_when_minimized_summary">Отображать погоду, когда виджет в свёрнутом состоянии</string>
   <string name="weather_select_location">Выберите местоположение</string>
-  <!-- Preferences - Calendar -->
   <string name="calendar_title">Показать след. событие</string>
   <string name="calendars_title">Календари событий</string>
   <string name="calendars_summary">Показывать события из этих календарей</string>
-  <string name="calendars_none_found_summary">Календари не найдены</string>
+  <string name="calendars_none_found_summary">Календарей не найдено</string>
   <string name="calendar_reminders_only_title">Только с напоминаниями</string>
   <string name="calendar_reminders_only_summary">Отображать только события с напоминаниями</string>
   <string name="calendar_hide_allday_title">Скрыть события на весь день</string>
