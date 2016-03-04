@@ -80,7 +80,7 @@
   <string name="weather_44">Sebagian Berawan</string>
   <string name="weather_45">Petir disertai hujan</string>
   <string name="weather_46">Salju ringan</string>
-  <string name="weather_47">Hujan gerimis dengan badai petir yang terisolasi</string>
+  <string name="weather_47">Terisolasi Thundershowers</string>
   <!-- Forecast unavailable -->
   <!-- Weather - Speed units -->
   <string name="weather_kph">km/j</string>
@@ -162,15 +162,13 @@
   <string name="calendar_upcoming_events_category">Acara mendatang</string>
   <string name="calendar_highlight_upcoming_events_title">Sorot acara</string>
   <string name="calendar_highlight_upcoming_events_summary">Sorot acara hari ini, setelah jam 8, juga acara-acara hari berikutnya</string>
-  <string name="calendar_highlight_upcoming_events_bold">Fon ditebalkan</string>
+  <string name="calendar_highlight_upcoming_events_bold">Huruf tebal</string>
   <!-- Preferences - Font colors -->
-  <string name="font_color">Warna fon</string>
-  <string name="font_color_alarm">Warna fon alarm</string>
-  <string name="font_color_timestamp">Warna fon stempel waktu</string>
-  <string name="font_color_calendar_details">Detail warna fon</string>
+  <string name="font_color">Warna huruf</string>
+  <string name="font_color_alarm">Warna huruf alarm</string>
+  <string name="font_color_timestamp">Warna huruf jam</string>
+  <string name="font_color_calendar_details">Warna huruf rincian</string>
   <!-- Preferences - Background color -->
-  <string name="background_color">Warna latar belakang</string>
-  <string name="background_transparency">Transparansi latar belakang</string>
   <!-- Calendar - Lookahead -->
   <string name="calendar_lookahead_3hrs">3 jam</string>
   <string name="calendar_lookahead_6hrs">6 jam</string>

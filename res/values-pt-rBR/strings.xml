@@ -54,33 +54,33 @@
   <string name="weather_25">Frio</string>
   <string name="weather_26">Nublado</string>
   <!-- Night -->
-  <string name="weather_27">Encoberto</string>
+  <string name="weather_27">Maior Parte Nublado</string>
   <!-- Day -->
-  <string name="weather_28">Encoberto</string>
+  <string name="weather_28">Maior Parte Nublado</string>
   <!-- Night -->
-  <string name="weather_29">Parcialmente nublado</string>
+  <string name="weather_29">Parcialmente Nublado</string>
   <!-- Day -->
-  <string name="weather_30">Parcialmente nublado</string>
+  <string name="weather_30">Parcialmente Nublado</string>
   <!-- Night -->
   <string name="weather_31">Limpo</string>
   <string name="weather_32">Ensolarado</string>
   <!-- Night -->
-  <string name="weather_33">Bom</string>
+  <string name="weather_33">Razoável</string>
   <!-- Day -->
-  <string name="weather_34">Bom</string>
-  <string name="weather_35">Misto de chuva e granizo</string>
+  <string name="weather_34">Razoável</string>
+  <string name="weather_35">Chuva e Granizo Misturados</string>
   <string name="weather_36">Quente</string>
-  <string name="weather_37">Tempestades isoladas</string>
-  <string name="weather_38">Tempestades dispersas</string>
-  <string name="weather_39">Tempestades dispersas</string>
-  <string name="weather_40">Chuvas dispersas</string>
-  <string name="weather_41">Nevasca forte</string>
-  <string name="weather_42">Neve dispersa</string>
-  <string name="weather_43">Nevasca forte</string>
-  <string name="weather_44">Parcialmente nublado</string>
-  <string name="weather_45">Chuvas com trovoadas</string>
-  <string name="weather_46">Chuva de neve</string>
-  <string name="weather_47">Chuvas com trovoadas isoladas</string>
+  <string name="weather_37">Tempestades Isoladas</string>
+  <string name="weather_38">Tempestades Dispersas</string>
+  <string name="weather_39">Tempestades Dispersas</string>
+  <string name="weather_40">Chuvas Dispersas</string>
+  <string name="weather_41">Nevasca Forte</string>
+  <string name="weather_42">Neve Dispersa</string>
+  <string name="weather_43">Nevasca Forte</string>
+  <string name="weather_44">Parcialmente Nublado</string>
+  <string name="weather_45">Chuvas com Trovoadas</string>
+  <string name="weather_46">Chuva de Neve</string>
+  <string name="weather_47">Chuvas com Trovoadas Isoladas</string>
   <!-- Forecast unavailable -->
   <!-- Weather - Speed units -->
   <string name="weather_kph">km/h</string>
@@ -116,8 +116,8 @@
   <string name="general_category">Geral</string>
   <string name="display_category">Exibir</string>
   <!-- Preferences - Clock -->
-  <string name="use_digital_clock_title">Usar relógio digital</string>
-  <string name="use_digital_clock_summary">Selecione para alternar entre digital e analógico</string>
+  <string name="use_digital_clock_title">Usar relógio Digital</string>
+  <string name="use_digital_clock_summary">Selecione para alternar entre relógio Digital e Analógico</string>
   <string name="clock_font_title">Horas em negrito</string>
   <string name="clock_font_minutes_title">Minutos em negrito</string>
   <string name="clock_font_date_title">Data e alarme em negrito</string>
@@ -167,7 +167,7 @@
   <string name="font_color">Cor da fonte</string>
   <string name="font_color_alarm">Cor da fonte do alarme</string>
   <string name="font_color_timestamp">Cor da fonte do horário</string>
-  <string name="font_color_calendar_details">Cor da fonte dos detalhes</string>
+  <string name="font_color_calendar_details">Detalhes da cor da fonte</string>
   <!-- Preferences - Background color -->
   <string name="background_color">Cor de fundo</string>
   <string name="background_transparency">Transparência do fundo</string>
@@ -198,7 +198,7 @@
   <string name="holo_purple">Roxo</string>
   <string name="holo_orange_light">Laranja claro</string>
   <string name="holo_orange_dark">Laranja escuro</string>
-  <string name="holo_blue_bright">Azul brilhante</string>
+  <string name="holo_blue_bright">Azul brilhoso</string>
   <!-- Weather icon sets -->
   <string name="weather_icon_set_title">Ícones</string>
   <string name="weather_icons_standard">Coloridos</string>

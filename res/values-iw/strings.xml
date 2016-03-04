@@ -20,7 +20,7 @@
   <string name="unknown">לא ידוע</string>
   <string name="cancel">בטל</string>
   <string name="loading_indicator">טוען ווידג\'ט\u2026</string>
-  <string name="menu_done">בוצע</string>
+  <string name="menu_done">סיום</string>
   <!-- Formating strings for widget clock -->
   <!-- java.text.SimpleDateFormat uses H for hours in the 0-23 range and
          android.text.format.DateFormat uses k for hours in the 0-23 range.
@@ -63,12 +63,12 @@
   <string name="weather_30">מעונן חלקית</string>
   <!-- Night -->
   <string name="weather_31">בהיר</string>
-  <string name="weather_32">בהיר</string>
+  <string name="weather_32">שמשי</string>
   <!-- Night -->
-  <string name="weather_33">לילה בהיר</string>
+  <string name="weather_33">סביר</string>
   <!-- Day -->
-  <string name="weather_34">בהיר</string>
-  <string name="weather_35">גשם מעורב בברד</string>
+  <string name="weather_34">סביר</string>
+  <string name="weather_35">גשם מעורב עם ברד</string>
   <string name="weather_36">חם</string>
   <string name="weather_37">סופות רעמים בודדות</string>
   <string name="weather_38">סופות רעמים פזורות</string>
@@ -124,7 +124,7 @@
   <string name="show_alarm_title">הצג שעון מעורר הבא</string>
   <string name="clock_am_pm_title">הצג מחוון AM/PM</string>
   <!-- Preferences - Weather -->
-  <string name="weather_enabled">מופעל</string>
+  <string name="weather_enabled">מאופשר</string>
   <string name="weather_enable">הצג מזג אוויר</string>
   <string name="weather_source_title">מקור למזג אוויר</string>
   <string name="weather_source_yahoo">Yahoo! Weather</string>
@@ -184,7 +184,7 @@
   <!-- Calendar - Event metadata -->
   <string name="calendar_metadata_none">אל תראה</string>
   <string name="calendar_metadata_first_line">הצג שורה ראשונה</string>
-  <string name="calendar_metadata_all">הצג הכול</string>
+  <string name="calendar_metadata_all">הצג הכל</string>
   <!-- Font colors -->
   <string name="white">לבן</string>
   <string name="grey">אפור</string>

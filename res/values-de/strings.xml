@@ -81,6 +81,8 @@
   <string name="weather_45">Gewitterschauer</string>
   <string name="weather_46">Schneeschauer</string>
   <string name="weather_47">Vereinzelte Gewitter</string>
+  <!-- Forecast unavailable -->
+  <!-- Weather - Speed units -->
   <string name="weather_kph">km/h</string>
   <string name="weather_mph">mph</string>
   <!-- Weather - Wind directions -->

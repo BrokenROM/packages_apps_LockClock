@@ -115,6 +115,7 @@
   <!-- Preferences - Categories -->
   <string name="general_category">Общи</string>
   <string name="display_category">Дисплей</string>
+  <!-- Preferences - Clock -->
   <string name="use_digital_clock_title">Използвай цифров часовник</string>
   <string name="use_digital_clock_summary">Изберете между цифров и аналогов часовник</string>
   <string name="clock_font_title">Удебели часа</string>
@@ -146,6 +147,7 @@
   <string name="weather_show_when_minimized_title">Винаги показвай</string>
   <string name="weather_show_when_minimized_summary">Ще показва информация за времето, дори когато приспособлението е минимизирано</string>
   <string name="weather_select_location">Изберете местоположение</string>
+  <!-- Preferences - Calendar -->
   <string name="calendar_title">Покажи събития от календара</string>
   <string name="calendars_title">Показване на събития от календари</string>
   <string name="calendars_summary">Търсене на събития в следните календари</string>
